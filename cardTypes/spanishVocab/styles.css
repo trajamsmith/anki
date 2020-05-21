@@ -1,0 +1,41 @@
+.card {
+  font-family: futura;
+  font-size: 24px;
+  color: black;
+  background-color: white;
+}
+
+.spanish {
+  margin: 4px;
+  padding: 5px;
+  font-family: pacifico;
+  color: white;
+  background-color: #eb9d88;
+}
+
+.english {
+  margin: 4px;
+  padding: 5px;
+  text-align: right;
+  font: futura;
+  color: white;
+  background-color: #91ceff;
+}
+
+.example-wrapper {
+  text-align: center;
+}
+
+.example-spanish {
+  font-style: italic;
+  font-size: 16px;
+  text-align: left;
+  padding: 2px 0px;
+}
+
+.example-english {
+  margin-left: 30px;
+  font-size: 16px;
+  text-align: left;
+  padding: 2px 0px;
+}
